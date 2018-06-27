@@ -1,4 +1,4 @@
-	## MAATGEVEND_SCHIP			
+## MAATGEVEND_SCHIP				
 				
 |	Code	|	Description	|
 |	---	|	---	|

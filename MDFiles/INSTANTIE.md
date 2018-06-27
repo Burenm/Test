@@ -1,4 +1,4 @@
-	## INSTANTIE			
+## INSTANTIE				
 				
 |	Code	|	Description	|
 |	---	|	---	|

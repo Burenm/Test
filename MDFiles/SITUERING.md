@@ -1,4 +1,4 @@
-	## SITUERING			
+## SITUERING				
 				
 |	Code	|	Description	|
 |	---	|	---	|

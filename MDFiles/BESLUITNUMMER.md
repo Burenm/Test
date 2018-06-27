@@ -1,4 +1,4 @@
-	## BESLUITNUMMER			
+## BESLUITNUMMER				
 				
 |	Code	|	Description	|
 |	---	|	---	|

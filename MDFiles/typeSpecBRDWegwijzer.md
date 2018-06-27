@@ -1,4 +1,4 @@
-	## typeSpecBRDWegwijzer			
+## typeSpecBRDWegwijzer				
 				
 |	Code	|	Description	|
 |	---	|	---	|

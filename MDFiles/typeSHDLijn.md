@@ -1,4 +1,4 @@
-	## typeSHDLijn			
+## typeSHDLijn				
 				
 |	Code	|	Description	|
 |	---	|	---	|

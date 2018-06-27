@@ -1,4 +1,4 @@
-	## FUNCTIE			
+## FUNCTIE				
 				
 |	Code	|	Description	|
 |	---	|	---	|

@@ -1,4 +1,4 @@
-	## TYPE_VOEGOVERGANG			
+## TYPE_VOEGOVERGANG				
 				
 |	Code	|	Description	|
 |	---	|	---	|

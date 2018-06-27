@@ -1,4 +1,4 @@
-	## typeSpecFNV			
+## typeSpecFNV				
 				
 |	Code	|	Description	|
 |	---	|	---	|

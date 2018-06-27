@@ -1,4 +1,4 @@
-	## NauwkeurigheidXYvalue			
+## NauwkeurigheidXYvalue				
 				
 |	Code	|	Description	|
 |	---	|	---	|

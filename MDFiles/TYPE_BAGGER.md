@@ -1,4 +1,4 @@
-	## TYPE_BAGGER			
+## TYPE_BAGGER				
 				
 |	Code	|	Description	|
 |	---	|	---	|

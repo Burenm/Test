@@ -1,4 +1,4 @@
-	## typeGBI			
+## typeGBI				
 				
 |	Code	|	Description	|
 |	---	|	---	|

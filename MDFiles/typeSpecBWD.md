@@ -1,4 +1,4 @@
-	## typeSpecBWD			
+## typeSpecBWD				
 				
 |	Code	|	Description	|
 |	---	|	---	|

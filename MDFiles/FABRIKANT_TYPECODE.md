@@ -1,4 +1,4 @@
-	## FABRIKANT_TYPECODE			
+## FABRIKANT_TYPECODE				
 				
 |	Code	|	Description	|
 |	---	|	---	|

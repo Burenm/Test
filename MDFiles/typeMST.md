@@ -1,4 +1,4 @@
-	## typeMST			
+## typeMST				
 				
 |	Code	|	Description	|
 |	---	|	---	|

@@ -1,4 +1,4 @@
-	## functieSPRLijn			
+## functieSPRLijn				
 				
 |	Code	|	Description	|
 |	---	|	---	|

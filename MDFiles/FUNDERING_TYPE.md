@@ -1,4 +1,4 @@
-	## FUNDERING_TYPE			
+## FUNDERING_TYPE				
 				
 |	Code	|	Description	|
 |	---	|	---	|

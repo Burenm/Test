@@ -1,4 +1,4 @@
-	## typeBRD			
+## typeBRD				
 				
 |	Code	|	Description	|
 |	---	|	---	|

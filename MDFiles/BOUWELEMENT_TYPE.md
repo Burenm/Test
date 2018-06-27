@@ -1,4 +1,4 @@
-	## BOUWELEMENT_TYPE			
+## BOUWELEMENT_TYPE				
 				
 |	Code	|	Description	|
 |	---	|	---	|

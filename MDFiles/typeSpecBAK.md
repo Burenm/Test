@@ -1,4 +1,4 @@
-	## typeSpecBAK			
+## typeSpecBAK				
 				
 |	Code	|	Description	|
 |	---	|	---	|

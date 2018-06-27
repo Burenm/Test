@@ -1,4 +1,4 @@
-	## typeKWDVlakBGT			
+## typeKWDVlakBGT				
 				
 |	Code	|	Description	|
 |	---	|	---	|
