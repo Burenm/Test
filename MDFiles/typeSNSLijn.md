@@ -1,4 +1,4 @@
-	## typeSNSLijn			
+## typeSNSLijn				
 				
 |	Code	|	Description	|
 |	---	|	---	|

@@ -1,4 +1,4 @@
-	## TYPE_BEHEER			
+## TYPE_BEHEER				
 				
 |	Code	|	Description	|
 |	---	|	---	|

@@ -1,4 +1,4 @@
-	## typeSpecBDM			
+## typeSpecBDM				
 				
 |	Code	|	Description	|
 |	---	|	---	|

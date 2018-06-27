@@ -1,4 +1,4 @@
-	## TYPE_COMMUNICATIE			
+## TYPE_COMMUNICATIE				
 				
 |	Code	|	Description	|
 |	---	|	---	|

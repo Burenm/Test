@@ -1,4 +1,4 @@
-	## functieOWG			
+## functieOWG				
 				
 |	Code	|	Description	|
 |	---	|	---	|

@@ -1,4 +1,4 @@
-	## GEBRUIKSFUNCTIE			
+## GEBRUIKSFUNCTIE				
 				
 |	Code	|	Description	|
 |	---	|	---	|

@@ -1,4 +1,4 @@
-	## TYPE_PLAAG_INVASIESOORT			
+## TYPE_PLAAG_INVASIESOORT				
 				
 |	Code	|	Description	|
 |	---	|	---	|

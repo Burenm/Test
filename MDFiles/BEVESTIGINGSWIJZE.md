@@ -1,4 +1,4 @@
-	## BEVESTIGINGSWIJZE			
+## BEVESTIGINGSWIJZE				
 				
 |	Code	|	Description	|
 |	---	|	---	|

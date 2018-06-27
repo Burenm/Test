@@ -1,4 +1,4 @@
-	## inwinningsmethode			
+## inwinningsmethode				
 				
 |	Code	|	Description	|
 |	---	|	---	|

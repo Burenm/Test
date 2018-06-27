@@ -1,4 +1,4 @@
-	## typeSpecBUI			
+## typeSpecBUI				
 				
 |	Code	|	Description	|
 |	---	|	---	|

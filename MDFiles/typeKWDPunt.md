@@ -1,4 +1,4 @@
-	## typeKWDPunt			
+## typeKWDPunt				
 				
 |	Code	|	Description	|
 |	---	|	---	|

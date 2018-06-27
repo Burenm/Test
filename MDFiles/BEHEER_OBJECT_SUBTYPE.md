@@ -1,4 +1,4 @@
-	## BEHEER_OBJECT_SUBTYPE				
+## BEHEER_OBJECT_SUBTYPE					
 					
 |	Code	|	Description	|	
 |	---	|	---	|	

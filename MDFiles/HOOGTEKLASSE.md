@@ -1,4 +1,4 @@
-	## HOOGTEKLASSE			
+## HOOGTEKLASSE				
 				
 |	Code	|	Description	|
 |	---	|	---	|

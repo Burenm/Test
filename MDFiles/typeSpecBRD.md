@@ -1,4 +1,4 @@
-	## typeSpecBRD			
+## typeSpecBRD				
 				
 |	Code	|	Description	|
 |	---	|	---	|

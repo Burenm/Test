@@ -1,4 +1,4 @@
-	## typePAL			
+## typePAL				
 				
 |	Code	|	Description	|
 |	---	|	---	|

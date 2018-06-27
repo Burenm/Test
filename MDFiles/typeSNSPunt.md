@@ -1,4 +1,4 @@
-	## typeSNSPunt			
+## typeSNSPunt				
 				
 |	Code	|	Description	|
 |	---	|	---	|

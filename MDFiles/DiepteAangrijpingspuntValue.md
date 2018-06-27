@@ -1,4 +1,4 @@
-	## DiepteAangrijpingspuntValue			
+## DiepteAangrijpingspuntValue				
 				
 |	Code	|	Description	|
 |	---	|	---	|

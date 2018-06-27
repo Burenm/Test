@@ -1,4 +1,4 @@
-	## typeSpecBRDScheepvaart			
+## typeSpecBRDScheepvaart				
 				
 |	Code	|	Description	|
 |	---	|	---	|

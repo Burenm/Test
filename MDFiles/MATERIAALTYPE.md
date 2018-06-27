@@ -1,4 +1,4 @@
-	## MATERIAALTYPE			
+## MATERIAALTYPE				
 				
 |	Code	|	Description	|
 |	---	|	---	|

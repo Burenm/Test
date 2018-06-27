@@ -1,4 +1,4 @@
-	## functieWGD			
+## functieWGD				
 				
 |	Code	|	Description	|
 |	---	|	---	|

@@ -1,4 +1,4 @@
-	## typeINS			
+## typeINS				
 				
 |	Code	|	Description	|
 |	---	|	---	|

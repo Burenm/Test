@@ -1,4 +1,4 @@
-	## ConditionOfFacilityValue			
+## ConditionOfFacilityValue				
 				
 |	Code	|	Description	|
 |	---	|	---	|

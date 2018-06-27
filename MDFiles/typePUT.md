@@ -1,4 +1,4 @@
-	## typePUT			
+## typePUT				
 				
 |	Code	|	Description	|
 |	---	|	---	|

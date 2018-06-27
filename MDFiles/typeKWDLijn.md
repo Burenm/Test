@@ -1,4 +1,4 @@
-	## typeKWDLijn			
+## typeKWDLijn				
 				
 |	Code	|	Description	|
 |	---	|	---	|

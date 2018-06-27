@@ -1,4 +1,4 @@
-	## TYPE_ONDERGROND			
+## TYPE_ONDERGROND				
 				
 |	Code	|	Description	|
 |	---	|	---	|

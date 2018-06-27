@@ -1,4 +1,4 @@
-	## typeSHDVlak			
+## typeSHDVlak				
 				
 |	Code	|	Description	|
 |	---	|	---	|

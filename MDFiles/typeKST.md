@@ -1,4 +1,4 @@
-	## typeKST			
+## typeKST				
 				
 |	Code	|	Description	|
 |	---	|	---	|
